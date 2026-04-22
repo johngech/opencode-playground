@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "skills": {
+    "accessibility": {
+      "source": "affaan-m/everything-claude-code",
+      "sourceType": "github",
+      "computedHash": "99ebda5060a08f6d0449d1a493a557a7c93969a870dcc59a71e4c0f30c33868c"
+    },
+    "bun-runtime": {
+      "source": "affaan-m/everything-claude-code",
+      "sourceType": "github",
+      "computedHash": "bdac3d20723a536f7160ca2c08f369101b73e67a0f5f2a951910056716156c3c"
+    },
+    "ck": {
+      "source": "affaan-m/everything-claude-code",
+      "sourceType": "github",
+      "computedHash": "da2c0946882104978b2f47e034eff9688d70653502bc0d89221566a7091f010d"
+    },
+    "claude-api": {
+      "source": "affaan-m/everything-claude-code",
+      "sourceType": "github",
+      "computedHash": "bea0610f07db61fe9b3291b6bbe344f117e8ac391744b240ddf3e0e69b1c2457"
+    },
+    "continuous-learning": {
+      "source": "affaan-m/everything-claude-code",
+      "sourceType": "github",
+      "computedHash": "bf91b62a2a6b579ae4f3296c3e2274449f05611c939f9f97e0b03f8153361875"
+    },
+    "cost-aware-llm-pipeline": {
+      "source": "affaan-m/everything-claude-code",
+      "sourceType": "github",
+      "computedHash": "f50e4b9a3fe3c2c55d0f8141b933e0b9a44c1fab38c002fd4d90d52850d71f04"
+    },
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "063a0e6448123cd359ad0044cc46b0e490cc7964d45ef4bb9fd842bd2ffbca67"
+    }
+  }
+}
