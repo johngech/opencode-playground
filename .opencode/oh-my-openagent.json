@@ -1,0 +1,61 @@
+{
+  "$schema": "https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/dev/assets/oh-my-opencode.schema.json",
+  "agents": {
+    "hephaestus": {
+      "model": "opencode/hy3-preview-free"
+    },
+    "oracle": {
+      "model": "opencode/nemotron-3-super-free"
+    },
+    "librarian": {
+      "model": "opencode/minimax-m2.5-free"
+    },
+    "explore": {
+      "model": "opencode/ling-2.6-flash-free"
+    },
+    "multimodal-looker": {
+      "model": "opencode/hy3-preview-free"
+    },
+    "prometheus": {
+      "model": "opencode/hy3-preview-free"
+    },
+    "metis": {
+      "model": "opencode/nemotron-3-super-free"
+    },
+    "momus": {
+      "model": "opencode/nemotron-3-super-free"
+    },
+    "atlas": {
+      "model": "opencode/hy3-preview-free"
+    },
+    "sisyphus-junior": {
+      "model": "opencode/ling-2.6-flash-free"
+    }
+  },
+  "categories": {
+    "visual-engineering": {
+      "model": "opencode/hy3-preview-free"
+    },
+    "ultrabrain": {
+      "model": "opencode/hy3-preview-free"
+    },
+    "deep": {
+      "model": "opencode/hy3-preview-free"
+    },
+    "artistry": {
+      "model": "opencode/hy3-preview-free"
+    },
+    "quick": {
+      "model": "opencode/ling-2.6-flash-free"
+    },
+    "unspecified-low": {
+      "model": "opencode/ling-2.6-flash-free"
+    },
+    "unspecified-high": {
+      "model": "opencode/hy3-preview-free"
+    },
+    "writing": {
+      "model": "opencode/minimax-m2.5-free"
+    }
+  }
+}

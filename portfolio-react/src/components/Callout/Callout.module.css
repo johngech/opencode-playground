@@ -1,0 +1,41 @@
+.callout {
+    padding: 120px 0;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 24px;
+}
+
+.title {
+    font-size: clamp(2rem, 5vw, 3rem);
+    font-weight: 700;
+    margin-bottom: 24px;
+    color: var(--text-primary);
+}
+
+.text {
+    font-size: 1.1rem;
+    color: var(--text-secondary);
+    margin-bottom: 40px;
+    line-height: 1.7;
+}
+
+.btn {
+    display: inline-block;
+    padding: 16px 40px;
+    background: var(--accent);
+    color: var(--bg-primary);
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 1rem;
+    text-decoration: none;
+    transition: var(--transition);
+}
+
+.btn:hover {
+    box-shadow: 0 0 30px var(--accent-glow);
+    transform: translateY(-2px);
+}

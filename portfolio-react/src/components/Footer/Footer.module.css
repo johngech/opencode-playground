@@ -1,0 +1,25 @@
+.footer {
+    padding: 40px 0;
+    border-top: 1px solid var(--border);
+    text-align: center;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px;
+}
+
+.text {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+}
+
+.text a {
+    color: var(--accent);
+    text-decoration: none;
+}
+
+.text a:hover {
+    text-decoration: underline;
+}
