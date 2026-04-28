@@ -8,7 +8,8 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "test": "vitest run --pass-with-no-tests"
+    "test": "bunx vitest run --pass-with-no-tests",
+    "test:ui": "bunx vitest --ui"
   },
   "dependencies": {
     "react": "^19.2.5",
